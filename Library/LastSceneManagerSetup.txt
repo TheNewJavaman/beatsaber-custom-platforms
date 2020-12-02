@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/__SCENES__/ValleyPlatform.unity
+  isLoaded: 1
+  isActive: 1
